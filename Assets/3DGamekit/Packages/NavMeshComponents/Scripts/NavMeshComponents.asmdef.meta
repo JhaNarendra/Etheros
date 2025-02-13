@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4fa046e4eff90c489dbe777ae0d9048
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Packages/NavMeshComponents/Scripts/NavMeshComponents.asmdef
+  uploadId: 604606
