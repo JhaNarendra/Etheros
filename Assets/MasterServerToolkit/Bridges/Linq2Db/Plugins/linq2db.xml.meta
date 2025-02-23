@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b431e93049b446b469cd985c5a4f1d7f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Linq2Db/Plugins/linq2db.xml
+  uploadId: 626569

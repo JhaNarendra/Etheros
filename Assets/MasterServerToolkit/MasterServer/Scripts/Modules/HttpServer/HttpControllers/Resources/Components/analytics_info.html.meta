@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09ec36587cc66994db26520e8dbbb8aa
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/HttpServer/HttpControllers/Resources/Components/analytics_info.html
+  uploadId: 626569

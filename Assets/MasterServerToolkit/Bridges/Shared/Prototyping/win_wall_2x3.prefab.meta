@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95962f31633868a418d2ec28bb55e615
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prototyping/win_wall_2x3.prefab
+  uploadId: 626569

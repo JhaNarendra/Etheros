@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7345ed4eb7c00de4ea5a239bc0010804
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/FishNet/BasicWorlds/Scenes/Room/Zone1.unity
+  uploadId: 626569

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 54afd6b3b8f06c140a205b16fa2fde9a
+timeCreated: 1488368760
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/Lobbies/JoinedLobby.cs
+  uploadId: 626569

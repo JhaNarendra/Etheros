@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff01f43f0dadd694eabd312493782b41
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Mirror/BasicWorlds/Scenes/Room/Zone3.unity
+  uploadId: 626569

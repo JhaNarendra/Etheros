@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93bf78af47bfec04f949149d89a5a870
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/ClientInformationView.prefab
+  uploadId: 626569

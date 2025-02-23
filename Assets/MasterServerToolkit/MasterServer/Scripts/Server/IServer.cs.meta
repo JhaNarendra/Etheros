@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7970bfa01d95f874eb654fc27f0f8305
+timeCreated: 1486720864
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Server/IServer.cs
+  uploadId: 626569

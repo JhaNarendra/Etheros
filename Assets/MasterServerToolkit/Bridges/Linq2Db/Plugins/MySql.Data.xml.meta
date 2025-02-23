@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 085c29d6f1eff5e469da8d4ce75d44d0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Linq2Db/Plugins/MySql.Data.xml
+  uploadId: 626569

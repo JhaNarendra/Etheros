@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f8e89b8a498179458f03f9db312dec2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/Dashboard/DashboardModule.cs
+  uploadId: 626569

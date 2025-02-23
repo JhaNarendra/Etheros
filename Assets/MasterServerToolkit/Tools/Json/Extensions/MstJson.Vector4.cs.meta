@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 988f7bba7bb7d874eb2467498d9ae050
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Tools/Json/Extensions/MstJson.Vector4.cs
+  uploadId: 626569

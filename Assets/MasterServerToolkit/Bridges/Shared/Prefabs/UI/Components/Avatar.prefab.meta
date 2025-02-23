@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 680dbaf7a56eb0e4f92fe6749d90ffff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/Components/Avatar.prefab
+  uploadId: 626569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 755b3c2af083706468671d7cc7e7e384
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicChat/Scenes/MasterServer/MasterServer.unity
+  uploadId: 626569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5de1e14ef4b1164e873504e2cc671b3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/SigninView.prefab
+  uploadId: 626569

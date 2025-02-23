@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 972e0add8f6b61d428c47a25078c30a3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/HttpServer/HttpControllers/Resources/Components/render_item_info_vue.html
+  uploadId: 626569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f18b23d41f8489449314f2ae98d2878
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/LiteDB/Plugins/LiteDB.xml
+  uploadId: 626569

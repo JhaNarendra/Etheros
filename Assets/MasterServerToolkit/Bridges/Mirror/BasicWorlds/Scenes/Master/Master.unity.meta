@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c155a2882827f5f4f9f907a54431a7bc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Mirror/BasicWorlds/Scenes/Master/Master.unity
+  uploadId: 626569

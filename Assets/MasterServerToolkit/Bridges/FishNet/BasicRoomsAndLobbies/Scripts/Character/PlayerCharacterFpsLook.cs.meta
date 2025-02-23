@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90ac1276ec5a5e24bad6f9acde8e171d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/FishNet/BasicRoomsAndLobbies/Scripts/Character/PlayerCharacterFpsLook.cs
+  uploadId: 626569

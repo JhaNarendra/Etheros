@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5294bffad2c986440b679d16737bdee6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Resources/Censor/Russian.txt
+  uploadId: 626569

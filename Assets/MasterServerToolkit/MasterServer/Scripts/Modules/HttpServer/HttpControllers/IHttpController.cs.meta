@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: af658023b4d728d4f8b4d98d0e3b3ef7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/HttpServer/HttpControllers/IHttpController.cs
+  uploadId: 626569

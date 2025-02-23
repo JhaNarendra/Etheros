@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ee634da6653a8542b442baae4512f16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicProfiles/Prefabs/inventoryItemUIProperty.prefab
+  uploadId: 626569

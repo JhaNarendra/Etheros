@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3114b2bf90808704bae88ad10a2aafd1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Prefabs/--ROOM_SERVER.prefab
+  uploadId: 626569

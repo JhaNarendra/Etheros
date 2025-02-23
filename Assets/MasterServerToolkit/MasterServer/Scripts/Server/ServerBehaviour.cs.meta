@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 26de9c81516de1240b54c6d6a2304d5f
+timeCreated: 1486642770
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Server/ServerBehaviour.cs
+  uploadId: 626569

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: beba0e7253e12c74ebb51e8c16bd38cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Tools/Tweener/Tweener.String.cs
+  uploadId: 626569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b13016b96944a744fab9d17ffc4695b3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Resources/Censor/American.txt
+  uploadId: 626569

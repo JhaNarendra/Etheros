@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d34ea8eb78b275741abe4f3e03dab1a3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Scenes/Room/Room.unity
+  uploadId: 626569

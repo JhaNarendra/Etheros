@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cc776efd8ca49e42b6f818f8d32dfae
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicRoomsAndLobbies/Scenes/Room/Room.unity
+  uploadId: 626569

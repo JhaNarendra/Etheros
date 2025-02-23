@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ced82f6f0c59e7e49ad16de20867610e
+timeCreated: 1487694670
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/Chat/ChatChannel.cs
+  uploadId: 626569

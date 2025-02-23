@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2948b6d2fd2566849831c5b0d1107749
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServerToolkit.asmdef
+  uploadId: 626569

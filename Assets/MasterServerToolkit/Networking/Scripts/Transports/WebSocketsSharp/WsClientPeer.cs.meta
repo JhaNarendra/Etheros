@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9870d76512fbbbb45a400d8cae906fc4
+timeCreated: 1472968243
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Networking/Scripts/Transports/WebSocketsSharp/WsClientPeer.cs
+  uploadId: 626569

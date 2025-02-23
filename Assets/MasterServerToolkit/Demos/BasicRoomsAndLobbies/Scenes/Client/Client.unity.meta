@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dfb0a477e059f8343a14c70b0687453e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicRoomsAndLobbies/Scenes/Client/Client.unity
+  uploadId: 626569

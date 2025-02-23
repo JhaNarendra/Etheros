@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdb82efd8e9b9bd46a0efa44c2322fa2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prototyping/door_3x3.prefab
+  uploadId: 626569

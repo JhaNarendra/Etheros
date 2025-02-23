@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ecfdb58c8ad5aa4fad42fbb42f9eb25
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicRoomsAndLobbies/Scenes/Spawner/Spawner.unity
+  uploadId: 626569

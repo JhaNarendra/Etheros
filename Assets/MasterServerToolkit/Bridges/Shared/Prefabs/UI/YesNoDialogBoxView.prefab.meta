@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e72e0a3cbb06b641bda7845a8f1d3ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/YesNoDialogBoxView.prefab
+  uploadId: 626569

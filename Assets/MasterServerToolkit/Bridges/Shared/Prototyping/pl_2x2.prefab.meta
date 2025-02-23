@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f09f1f90a0262749a4d45def4cc0174
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prototyping/pl_2x2.prefab
+  uploadId: 626569

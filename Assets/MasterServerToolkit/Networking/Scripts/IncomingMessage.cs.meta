@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9b34cfe372e1bc447b7830005fff342b
+timeCreated: 1471888434
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Networking/Scripts/IncomingMessage.cs
+  uploadId: 626569

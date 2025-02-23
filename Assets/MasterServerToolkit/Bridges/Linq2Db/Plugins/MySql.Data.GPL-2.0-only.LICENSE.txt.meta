@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3bb2424a9538ab4c826f582bb04d1f2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Linq2Db/Plugins/MySql.Data.GPL-2.0-only.LICENSE.txt
+  uploadId: 626569

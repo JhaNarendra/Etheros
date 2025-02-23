@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ec12c9b6becec24dac187fe0d2e4bb5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Networking/Plugins/WebSocketSharp/websocket-sharp.xml
+  uploadId: 626569

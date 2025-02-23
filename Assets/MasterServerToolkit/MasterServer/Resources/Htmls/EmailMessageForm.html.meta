@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6397dd8c110436a4ea30b256b0493b84
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Resources/Htmls/EmailMessageForm.html
+  uploadId: 626569

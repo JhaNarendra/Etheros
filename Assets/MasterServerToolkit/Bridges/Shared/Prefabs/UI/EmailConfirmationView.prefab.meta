@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12ce4915a9fbfcd4d86d5c9c6ae27a01
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/EmailConfirmationView.prefab
+  uploadId: 626569

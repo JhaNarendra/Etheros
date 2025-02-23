@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4e372f9162e7fd40987f4935262cab6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/MongoDB/Plugins/LICENSE.txt
+  uploadId: 626569

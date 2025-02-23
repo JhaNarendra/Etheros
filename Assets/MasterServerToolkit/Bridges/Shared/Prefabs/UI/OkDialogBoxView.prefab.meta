@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 486cd82c994506a4d9b252b2abc8c4a5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/OkDialogBoxView.prefab
+  uploadId: 626569

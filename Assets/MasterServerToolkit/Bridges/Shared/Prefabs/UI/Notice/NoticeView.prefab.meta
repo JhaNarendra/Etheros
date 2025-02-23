@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 42ba4e1d050683c4cb8c16de9131ac83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/Notice/NoticeView.prefab
+  uploadId: 626569

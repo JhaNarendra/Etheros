@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8910c11a56a448468126fadd5e483b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/FishNet/BasicRoomsAndLobbies/Data/Demo
+    SinglePrefabObjects.asset
+  uploadId: 626569

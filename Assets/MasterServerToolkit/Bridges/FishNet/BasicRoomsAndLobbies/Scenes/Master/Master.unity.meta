@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd1242bb3300b464cb3940e19eccf79a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/FishNet/BasicRoomsAndLobbies/Scenes/Master/Master.unity
+  uploadId: 626569

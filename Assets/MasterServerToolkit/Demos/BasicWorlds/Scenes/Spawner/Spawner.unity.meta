@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b37e54f383c853249b9ebc3bc1877c1e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicWorlds/Scenes/Spawner/Spawner.unity
+  uploadId: 626569

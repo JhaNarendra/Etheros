@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 65daead934e48a64a812438ee738f97b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Networking/Scripts/IUpdatable.cs
+  uploadId: 626569

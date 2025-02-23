@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a2aa91a1244e10a43a3c3c861130fd7d
+timeCreated: 1489080389
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/Profiles/ObservableDictStringFloat.cs
+  uploadId: 626569

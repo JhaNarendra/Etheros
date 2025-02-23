@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 18893696d00818f48b9d2ae12d425447
+timeCreated: 1487575893
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/Authentication/UserPeerExtension.cs
+  uploadId: 626569

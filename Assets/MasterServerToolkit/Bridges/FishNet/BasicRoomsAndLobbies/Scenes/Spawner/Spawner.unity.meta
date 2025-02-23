@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e6b24526e7f4d343b95d398a6298a5a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/FishNet/BasicRoomsAndLobbies/Scenes/Spawner/Spawner.unity
+  uploadId: 626569

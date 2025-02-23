@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a254f666eb0044949912607eec09bdde
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/FishNet/BasicRoomsAndLobbies/Prefabs/FpsCharacter.prefab
+  uploadId: 626569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99de67e6650752044934ff1723d17ed6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prototyping/pillar_2x2x3.prefab
+  uploadId: 626569

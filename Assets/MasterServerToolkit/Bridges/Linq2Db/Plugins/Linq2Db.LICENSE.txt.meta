@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2642a5d826667b542815eb9f749cd7d2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Linq2Db/Plugins/Linq2Db.LICENSE.txt
+  uploadId: 626569

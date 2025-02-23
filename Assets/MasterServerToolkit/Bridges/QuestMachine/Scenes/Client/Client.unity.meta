@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75ab6edb17d8ab54482180b9cc4a14bb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/QuestMachine/Scenes/Client/Client.unity
+  uploadId: 626569

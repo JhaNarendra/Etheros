@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a431ff7940e09964ea647b8e7481fdd7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/Components/Separator.prefab
+  uploadId: 626569

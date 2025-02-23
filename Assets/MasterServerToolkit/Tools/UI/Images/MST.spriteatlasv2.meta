@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e26ff1c7fb915f4dafd24a19bf919e9
+SpriteAtlasImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Tools/UI/Images/MST.spriteatlasv2
+  uploadId: 626569

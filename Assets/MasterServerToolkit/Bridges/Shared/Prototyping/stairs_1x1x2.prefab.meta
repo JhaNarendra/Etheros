@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3287930225eb68a47bb9cfb8a85b9199
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prototyping/stairs_1x1x2.prefab
+  uploadId: 626569

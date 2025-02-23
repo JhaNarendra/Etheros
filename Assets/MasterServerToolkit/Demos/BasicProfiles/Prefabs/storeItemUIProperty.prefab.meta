@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f275316e6806ea943a86af9d31ed3ed0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicProfiles/Prefabs/storeItemUIProperty.prefab
+  uploadId: 626569

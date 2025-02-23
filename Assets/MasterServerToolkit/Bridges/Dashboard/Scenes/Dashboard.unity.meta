@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99b3ba18ef1086e429af7469d1f372be
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Dashboard/Scenes/Dashboard.unity
+  uploadId: 626569

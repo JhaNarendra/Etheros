@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ed6e1bbcb8184c4386be506f6fb88d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Prefabs/NetworkPlayer.prefab
+  uploadId: 626569

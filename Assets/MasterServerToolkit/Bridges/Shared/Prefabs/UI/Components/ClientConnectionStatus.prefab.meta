@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f09c1d09d4f61904fabcd4dae29d8baa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/Components/ClientConnectionStatus.prefab
+  uploadId: 626569

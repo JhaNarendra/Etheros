@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e226e1f60aca533438a0d1665b2283fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicRoomsAndLobbies/Prefabs/Arena.prefab
+  uploadId: 626569

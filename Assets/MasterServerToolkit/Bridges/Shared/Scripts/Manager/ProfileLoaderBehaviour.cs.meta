@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1f1479ff00045c3428b8383b000d5f7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Scripts/Manager/ProfileLoaderBehaviour.cs
+  uploadId: 626569

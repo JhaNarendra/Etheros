@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59e4f62c32cfeb541a8d58ff9f8fdf1b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/PlayersListView.prefab
+  uploadId: 626569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3a808b9a7846f042b07cb18d32d3994
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Tools/Terminal/README.md
+  uploadId: 626569

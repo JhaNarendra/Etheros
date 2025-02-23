@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 091cac60467ca574d933da4a8039bee2
+timeCreated: 1471874631
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Networking/Scripts/IPacketHandler.cs
+  uploadId: 626569

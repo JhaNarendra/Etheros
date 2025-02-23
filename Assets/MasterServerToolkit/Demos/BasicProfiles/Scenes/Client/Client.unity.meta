@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fb5575933aea2b4496a031a5ce4968a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicProfiles/Scenes/Client/Client.unity
+  uploadId: 626569

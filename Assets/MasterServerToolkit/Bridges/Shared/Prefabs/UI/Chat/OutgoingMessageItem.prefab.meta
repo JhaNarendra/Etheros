@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbd21e382383ae44fb03475c1e66056e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/Chat/OutgoingMessageItem.prefab
+  uploadId: 626569

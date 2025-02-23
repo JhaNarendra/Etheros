@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95a3dbe890d4d674bb968fc7d70bd4ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/Chat/ChatsView.prefab
+  uploadId: 626569

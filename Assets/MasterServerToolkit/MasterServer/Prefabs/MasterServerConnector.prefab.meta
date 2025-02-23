@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e649ffaed4ac584ea30dd8b2bf79511
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Prefabs/MasterServerConnector.prefab
+  uploadId: 626569

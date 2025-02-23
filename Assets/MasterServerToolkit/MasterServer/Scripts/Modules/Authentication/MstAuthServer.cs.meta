@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7bb53242f54ccb4458308dfe82a1f7b8
+timeCreated: 1487493537
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/Authentication/MstAuthServer.cs
+  uploadId: 626569

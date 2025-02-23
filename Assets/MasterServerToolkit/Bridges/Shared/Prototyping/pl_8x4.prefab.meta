@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 330e7e9843d75ad42a747e976bd17004
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prototyping/pl_8x4.prefab
+  uploadId: 626569

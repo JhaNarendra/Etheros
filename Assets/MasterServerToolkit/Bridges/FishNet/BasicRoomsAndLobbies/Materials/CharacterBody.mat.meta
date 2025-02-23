@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90eb183462e34c64bbbb8e1db95e33b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/FishNet/BasicRoomsAndLobbies/Materials/CharacterBody.mat
+  uploadId: 626569

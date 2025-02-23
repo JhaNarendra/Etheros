@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c683f5daa741944781e899f6295fd29
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/HttpServer/HttpControllers/Resources/Components/auth_module_info_vue.html
+  uploadId: 626569

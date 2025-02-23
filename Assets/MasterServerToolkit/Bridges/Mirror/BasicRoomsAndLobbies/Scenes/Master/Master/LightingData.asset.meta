@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4388f809099059549a9a3e1afb44123e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6475696996188705980
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Scenes/Master/Master/LightingData.asset
+  uploadId: 626569

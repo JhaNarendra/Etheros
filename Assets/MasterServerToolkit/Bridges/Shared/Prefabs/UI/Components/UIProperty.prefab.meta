@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bf2a0fbdb981454caa89e47939f7d32
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/Components/UIProperty.prefab
+  uploadId: 626569

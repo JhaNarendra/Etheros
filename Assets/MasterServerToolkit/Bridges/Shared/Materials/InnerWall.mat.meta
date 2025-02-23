@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cffcf1669ba002a43b3972d2f08f9172
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Materials/InnerWall.mat
+  uploadId: 626569

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8eb8fc2f0ed199445bcd99eebe2ed16c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicWorlds/Prefabs/--ROOM_SERVER.prefab
+  uploadId: 626569

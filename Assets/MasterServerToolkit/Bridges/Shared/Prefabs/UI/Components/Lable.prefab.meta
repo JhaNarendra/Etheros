@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cfdbf2897497cdd4f8a028272c0f7bcc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/Components/Lable.prefab
+  uploadId: 626569

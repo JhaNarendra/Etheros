@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bd183a359a8e6d84886e4d4371c03773
+timeCreated: 1486725634
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Mst/MstClient.cs
+  uploadId: 626569

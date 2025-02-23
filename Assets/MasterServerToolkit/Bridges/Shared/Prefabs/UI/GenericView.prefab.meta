@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2a62c3519b48fe40a37aa32c7fe124f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/GenericView.prefab
+  uploadId: 626569

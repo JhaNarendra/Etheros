@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f184f8c2985579448760b1463e18d9b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Demos/BasicProfiles/Prefabs/currencyUIProperty.prefab
+  uploadId: 626569

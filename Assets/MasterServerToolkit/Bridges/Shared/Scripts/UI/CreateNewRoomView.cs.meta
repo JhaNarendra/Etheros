@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fa5a559cdcb85d2469d0b41b116e6482
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Scripts/UI/CreateNewRoomView.cs
+  uploadId: 626569

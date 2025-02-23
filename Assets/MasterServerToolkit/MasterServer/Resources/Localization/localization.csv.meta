@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 781f26ed309be0f4b8ca584f12030756
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Resources/Localization/localization.csv
+  uploadId: 626569

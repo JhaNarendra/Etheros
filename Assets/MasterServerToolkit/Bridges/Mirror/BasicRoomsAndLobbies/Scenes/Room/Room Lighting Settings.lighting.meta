@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 77e20cfdb8a1d5e4691e76375288e7aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Scenes/Room/Room
+    Lighting Settings.lighting
+  uploadId: 626569

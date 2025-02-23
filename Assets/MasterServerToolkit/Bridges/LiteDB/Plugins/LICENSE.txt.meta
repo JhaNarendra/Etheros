@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b41758362eb1f0345a69fa2d5eb09e67
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/LiteDB/Plugins/LICENSE.txt
+  uploadId: 626569

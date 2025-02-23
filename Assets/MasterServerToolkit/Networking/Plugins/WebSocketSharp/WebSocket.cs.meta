@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b38063db13cd0174da2f5ae86a49a159
+timeCreated: 1472922364
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Networking/Plugins/WebSocketSharp/WebSocket.cs
+  uploadId: 626569

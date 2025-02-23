@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a61bc14ea6797934b9c1659a083c486e
+timeCreated: 1487784115
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/Spawner/Packets/SpawnFinalizationPacket.cs
+  uploadId: 626569

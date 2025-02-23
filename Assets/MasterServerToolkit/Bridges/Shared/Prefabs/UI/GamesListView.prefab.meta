@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e32bcaa6851ede046a2f98cd07af5fc4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Shared/Prefabs/UI/GamesListView.prefab
+  uploadId: 626569

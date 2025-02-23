@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 066410b26a6ea4b478e3dfd0f6a1b9c6
+timeCreated: 1488464482
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/MasterServer/Scripts/Modules/Lobbies/Implementations/BaseLobby.cs
+  uploadId: 626569

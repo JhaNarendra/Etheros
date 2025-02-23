@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc98bc426a22e4542bd58e292675ee08
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194832
+  packageName: Master Server Toolkit
+  packageVersion: 4.16.0
+  assetPath: Assets/MasterServerToolkit/Bridges/Mirror/BasicRoomsAndLobbies/Prefabs/FpsCharacter.prefab
+  uploadId: 626569
